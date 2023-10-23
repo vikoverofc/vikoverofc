@@ -1,10 +1,10 @@
 # 👋 Hi, I’m @vikoverofc
-im very friendly ;3
-- Languages i speak: english and portuguese(Brazil)
-- Brazillian guy
-- Professional Scripter helper
+## im very friendly ;3
+### - Languages i speak: english and portuguese(Brazil)
+### - Brazillian guy
+### - Professional Scripter helper
 
-I know its not much but this is my readme. Enjoy 😄
+`I know its not much but this is my readme. Enjoy 😄`
 
 
 <!---
