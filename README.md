@@ -4,8 +4,6 @@
 ### - Brazillian guy
 ### - Professional Scripter helper
 
-`I know its not much but this is my readme. Enjoy 😄`
-
 
 <!---
 vikoverofc/vikoverofc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
