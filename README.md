@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @vikoverofc
-## im very friendly ;3
+## im very friendly 💪
 ### - Languages i speak: english and portuguese(Brazil)
 ### - Brazillian guy
 ### - Professional Scripter helper
